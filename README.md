@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding and writin songs.
 - 🌱 I’m currently learning ...codin.
 - 💞️ I’m looking to collaborate on ...song-writin an codin.
-- 📫 How to reach me ...uh oh ! i m nut social.
+- 📫 How to reach me ...uh idk..
 
 <!---
 VanessaDlima/VanessaDlima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

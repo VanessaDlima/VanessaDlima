@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VanessaDlima
 - 👀 I’m interested in ...coding and writin songs.
 - 🌱 I’m currently learning ...codin.
-- 💞️ I’m looking to collaborate on ...song-writin an codin.
+- 💞️ I’m interested in ...song-writin an codin.
 - 📫 How to reach me ...uh idk..
 
 <!---
